@@ -1,2 +1,2 @@
 # Programacao-Funcional
-Fichas de Progrmação Funcional 2021/22
+Fichas (mal resolvidas) de Progrmação Funcional 2021/22
